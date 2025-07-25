@@ -1,4 +1,4 @@
 # CPlusPlus
-let's practice with C++
+let's solving with C++
 build: g++ filename.cpp -o filename
 run ./filename
